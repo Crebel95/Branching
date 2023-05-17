@@ -19,3 +19,8 @@ List of common git commands, and practice with branching and merging
 * 'git branch branchName' - create local branch 'branchName'
 * 'git checkout branchName' - move to local branch 'branchName'
 
+## Remote Commands
+* 'git remote add reName remoteUrl' - connect local repo to remote repository 'remoteUrl' with shortcut 'reName' for remote URL
+* 'git push reName branchName' - push local commits to remote branch
+
+
